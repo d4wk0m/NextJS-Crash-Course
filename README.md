@@ -1,1 +1,1 @@
-#This is a collection of projects to learn Next JS
+##Tutorial by: https://www.youtube.com/watch?v=6fNy0iD3hsk
